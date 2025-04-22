@@ -8,15 +8,26 @@ Test con preguntas para preparar el examen
 2. [Test 2 Algoritmos y estructuras de datos](./test/test_2.md)
 3. [Test 3 Diseño modular](./test/test_3.md)
 
-## Tareas apoyo UD1
-Introduccion a la programacion
-[Tarea 1](./tareas/tarea_1.md)
 
-## Tareas apoyo UD2
-Algoritmos y estructuras de datos
-[Tarea 2](./tareas/tarea_2.md)
+## Generación
+Las preguntas han sido generadas con IA. Se ha usado Gemini 2.5 Flash. Puedes pedir que genera mas para estudiar. 
 
-## Tareas apoyo UD3
-Diseño modular
-[Tarea 3](./tareas/tarea_3.md)
+### prompt 1:
 
+genera 50 preguntas en formato markdown de github sobre programacion con python muy basicas con 4 respuestas posibles.
+crea una tabla final horizontal con las respuestas y no indiques la respuesta correcta en las preguntas.
+los temas son sintaxis muy basica, palabras reservadas, variables y constantes, asignacion, comentarios, tipos de datos primitivos, entrada y salida en terminal.
+
+### prompt 2:
+
+genera 50 preguntas en formato markdown de github sobre programacion con python muy basicas con 4 respuestas posibles.
+crea una tabla final horizontal con las respuestas y no indiques la respuesta correcta en las preguntas.
+los temas son funciones, control de flujo del programa con if y for, estructuras de datos basicas como la lista y el diccionario.
+intenta que algunas de ellas sean codigo a ejecutar y ver el valor.
+
+### prompt 2:
+
+genera 30 preguntas en formato markdown de github sobre programacion con python muy basicas con 4 respuestas posibles.
+crea una tabla final horizontal con las respuestas y no indiques la respuesta correcta en las preguntas.
+los temas son fases de diseño en el modelo waterfall, diseño modular y diseño top down.
+intenta que algunas de ellas sean codigo a comentar.
